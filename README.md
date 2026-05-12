@@ -1,14 +1,34 @@
 # 🚀 Parametric Payout Engine
 
 > ⚙️ **Production-ready smart contract engine.**  
-> 🎮 **Live Demo:** [github.com/ddstudi-o/parain-SLA](https://github.com/ddstudi-o/parain-SLA) | 🌐 **Try Demo:** [grand-narwhal-d7a6ed.netlify.app](https://grand-narwhal-d7a6ed.netlify.app)
+> 🎮 **Live Demo:** [github.com/ddstudi-o/parain-SLA](https://github.com/ddstudi-o/parain-SLA) | 🌐 **Try Demo:** [parametric-insurance-mvp-lsa.netlify.app](https://parametric-insurance-mvp-lsa.netlify.app/)
 
 ---
 
 ## 📋 Overview
-The **Parametric Payout Engine** automates SLA compensation via smart contracts. When predefined triggers are met (e.g., downtime >2h), payouts execute instantly on-chain — zero manual claims, zero delays.
+The **Parametric Payout Engine** is the production-ready core of our parametric insurance platform.
 
-**Built with AI-Leverage:** Designed by an AI-Driven Product Operator for rapid iteration and production readiness.
+### 🎯 Current Stage: Market Validation
+
+We are testing market demand for automated SLA compensation among hosting providers and cloud platforms.
+
+**Timeline:**
+- ✅ **Done:** Working PoC Demo + Video + Open-source Engine
+- 🔄 **Next 2 Weeks:** Market validation — outreach to hosting providers, measure interest
+- ⚡ **Week 3-4:** If demand confirmed → Engine finalization + Testnet deployment
+- 🚀 **Week 5-6:** Production MVP launch with first automated payouts
+
+### 📹 Proof of Concept Demo
+Watch our working demo that validates the core value proposition:
+
+**[▶️ Watch  demo video](https://youtube.com/твоя_ссылка)**
+
+This demo demonstrates:
+- ✅ Technical feasibility (automatic payout in <15 seconds)
+- ✅ Transparent smart contract (verified on Etherscan)
+- ✅ Production-ready architecture
+
+**Next Steps:** We are reaching out to hosting providers to validate market demand. If interest is confirmed, we will proceed with Engine deployment within 4 weeks.
 
 ---
 
